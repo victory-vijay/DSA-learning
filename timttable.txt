@@ -1,0 +1,10 @@
+1. Baby steps completed 
+2. step 0 : patterns completed 
+3. step 1 : 10 questions solved => time complex 
+4. stpe 2 : 
+5. step 3 :
+6. step 4 : 
+7. warmup before pro DSA plan: 
+8. hashing 
+9. two pointers 
+10. sliding window 
